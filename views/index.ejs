@@ -1,0 +1,33 @@
+<%- include('partial/header.ejs') %>
+    <div class="formi">
+    <form action="/" method="post">
+        <input type="text" name="search">
+        <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+    </form>
+</div>
+    <div class="sec">
+    <div class="container">
+        <% dar.forEach(element => { %>
+         
+        
+        <a class="cart" href="/temp/<%= element.name %>">
+            <img src="<%= element.timg %>" alt="">
+            <h4><%= element.name %></h4>
+            <h2 class="star">
+                <% for( let i = 0; i < element.star; i++ ) { %>
+                    <i class="fa-solid fa-star" style="color: #ffb121;"></i>
+                <% } %>
+                
+            </h2>
+
+            <h4>&#128293  <%= element.score %></h4>
+        </a>
+   
+        <% }) %>
+       
+        
+
+    </div>
+    </div>
+
+    <%- include('partial/footer.ejs') %>

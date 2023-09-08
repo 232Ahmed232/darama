@@ -1,0 +1,303 @@
+Suno chanda 
+    {
+      img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFDIT3xQrk_j46ft0-ToyOaK5aV_-dURDgg&usqp=CAU',                                         
+      name: 'Iqra Aziz',
+      _id: new ObjectId("64c8ebf026291edec2578abe")
+    },
+    {
+      img: 'https://upload.wikimedia.org/wikipedia/en/a/ab/Farhan_Saeed.jpeg',
+      name: 'Farhan Saeed',
+      _id: new ObjectId("64c8ebf026291edec2578abf")
+    },
+    {
+      img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmHDhOszINBsmuU40SUoBGboxrbUS7n2W9Q&usqp=CAU',                                         
+      name: 'Mashal Khan',
+      _id: new ObjectId("64c8ebf026291edec2578ac0")
+    },
+    {
+      img: 'https://superstarsbio.com/wp-content/uploads/2020/12/Nabeel-Zuberi-networth.jpg',                                                             
+      name: 'Nabeel Zuberi',
+      _id: new ObjectId("64c8ebf026291edec2578ac1")
+    },
+    {
+      img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMEBJFIHZasX3L4nS7cI0y2bODRgb_I-6EQ&usqp=CAU',                                         
+      name: 'Nadia Afgan',
+      _id: new ObjectId("64c8ebf026291edec2578ac2")
+    }
+
+FRaud
+    { img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRLwk2WOSAmnPdba8_rdUAqO0tb8dOM6lq0cHzF9ZPZj87Cp1_t3HL&usqp=CAE&s',
+                name:"Saba Qamar" },
+                { img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pakistani_actor_and_Model_Mikaal_Zulfiqar.png/220px-Pakistani_actor_and_Model_Mikaal_Zulfiqar.png"
+                , name: "Mikaal Zulfiqar" },
+                { img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pakistani_celebrity_Ahsan_Raza_Khan_%28cropped%29.jpg/220px-Pakistani_celebrity_Ahsan_Raza_Khan_%28cropped%29.jpg", 
+                name: "Ahsan Khan" },
+                { img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rabia_Kulsoom.jpeg/220px-Rabia_Kulsoom.jpeg",
+                 name: "Rabya Kulsoom" },
+                { img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE9JdUQVgpkqAsaUPhpASbuohp_X_xZR-ADA&usqp=CAU"
+                , name: "Mehmood Aslam" }
+
+Tere bin 
+{ img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Wahaj_Ali.jpg/220px-Wahaj_Ali.jpg',
+                name:"Wahaj Ali" },
+                { img: "https://i0.wp.com/www.dailyinfotainment.com/wp-content/uploads/2022/03/2022-03-09-1-1.jpeg?resize=966%2C1170&ssl=1"
+                , name: "Yumna Zaidi" },
+                { img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkUkP2GzO3b-kxJVeLh5Sfu9QGAFZi9RRow&usqp=CAU", 
+                name: "Sabeena Farooq" },
+                { img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCGSbiOAiQTSkEBsP0flxDX1H27XR6JNycpw&usqp=CAU",
+                 name: "Bushra Ansari" },
+                { img: "https://superstarsbio.com/wp-content/uploads/2019/10/Sohail-Sameer.jpg.webp"
+                , name: "Sohail Sameer" },
+
+
+Baghi 
+   { img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRLwk2WOSAmnPdba8_rdUAqO0tb8dOM6lq0cHzF9ZPZj87Cp1_t3HL&usqp=CAE&s',
+                  name:"Saba Qamar" }
+                  ,
+                  {
+                    img: 'https://i.tribune.com.pk/media/images/2241014-___n-1591942101/2241014-___n-1591942101.jpg',
+                    name: 'Osman Khalid Butt',
+                  },
+                  { img: "https://tribune-reloaded.s3.amazonaws.com/media/images/1098929-image-1462635572/1098929-image-1462635572.JPG"
+                , name: "Ali Kazmi" },
+                  {
+                    img: 'https://i.ytimg.com/vi/S-0iyCz_mYI/maxresdefault.jpg',                                                             
+                    name: 'Irfan Khoosat',
+                  },
+                  {
+                    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMEBJFIHZasX3L4nS7cI0y2bODRgb_I-6EQ&usqp=CAU',                                         
+                    name: 'Nadia Afgan',
+                  }
+
+
+Parizaad
+
+                  { img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ahmed_Ali_Akbar_at_an_event_in_Islamabad_%28cropped%29.jpg/220px-Ahmed_Ali_Akbar_at_an_event_in_Islamabad_%28cropped%29.jpg',
+                  name:"Ahmed Ali Akbar" }
+                  ,
+                  { img: "https://i0.wp.com/www.dailyinfotainment.com/wp-content/uploads/2022/03/2022-03-09-1-1.jpeg?resize=966%2C1170&ssl=1"
+                  ,
+                   name: "Yumna Zaidi" }
+                ,
+                  { img: "https://pakobserver.net/wp-content/uploads/2021/03/2249360-ushna-1592981766.jpg"
+                , name: "Ushna Shah" },
+                  {
+                    img: 'https://superstarsbio.com/wp-content/uploads/2019/10/Saboor-Ali.jpg',                                                             
+                    name: 'Saboor Ali',
+                  }
+
+
+Mery pass tum ho 
+                  { img: 'https://bookitnow.pk/uploads/a8dbbd5dfa4c33206a9c67dbe618a785.jpg',
+                  name:"Ayeza Khan" }
+                  ,
+                  {
+                    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Humayun_Saeed.png/220px-Humayun_Saeed.png',                                         
+                    name: 'Humayun Saeed',
+                  }
+                ,
+                  { img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hira_Mani.png/220px-Hira_Mani.png"
+                , name: "Hira Mani" },
+                  {
+                    img: 'https://i.tribune.com.pk/media/images/adnan-siddiqui-(1)1675332897-0/adnan-siddiqui-(1)1675332897-0.png',                                                             
+                    name: 'Adnan Siddiqui',
+                  },
+                  { img: "https://img.wegreenkw.com/sites/3/2023/03/Shees-Sajjad-Gul.webp"
+                , name: "Shees Sajjad Gul" }
+
+sange Maah 
+
+{ img: 'https://hamariweb.com/profiles/images/profile/6474-179-131.jpg',
+                  name:"Kubra Khan" }
+                  ,
+                  {
+                    img: 'https://hamariweb.com/profiles/images/profile/6577-441.jpg',                                         
+                    name: 'Nauman Ijaz',
+                  }
+                ,
+                  { img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Atif_Aslam_at_Badlapur_%28cropped%29.jpg/220px-Atif_Aslam_at_Badlapur_%28cropped%29.jpg"
+                , name: "Atif Aslam" },
+                  {
+                    img: 'https://gnnhd.tv/media/68505/Hania-Aamir-Photo.jpg',                                                             
+                    name: 'Hania Amir',
+                  },
+                  { img: "https://img.wegreenkw.com/sites/3/2022/11/Samiya-Mumtaz.webp"
+                , name: "Samiya Mumtaz" },
+
+Alif 
+    {
+          img: 'https://m.timesofindia.com/photo/100040503/100040503.jpg',
+          name: "Sajal Aly"
+        }
+        ,
+        {
+          img: 'https://wikibio.in/wp-content/uploads/2022/11/Hamza-Ali-Abbasi.jpg',
+          name: 'Hamza Ali Abbasi',
+        }
+        ,
+        {
+          img: 'https://hamariweb.com/profiles/images/profile/6474-179-131.jpg',
+          name: "Kubra Khan"
+        },
+        {
+          img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pakistani_celebrity_Ahsan_Raza_Khan_%28cropped%29.jpg/220px-Pakistani_celebrity_Ahsan_Raza_Khan_%28cropped%29.jpg",
+          name: "Ahsan Khan"
+        },
+        {
+          img: "https://www.nation.com.pk/print_images/large/2020-02-04/yashma-gill-enthralls-with-her-performance-in-pyarkesadqay-1580756769-8191.jpg"
+          , name: "Yashma-gill"
+        }
+
+Dewangi
+    {
+          img: 'https://img.wegreenkw.com/sites/3/2023/02/Danish-Taimoor.webp',
+          name: "Danish Taimoor"
+        }
+        ,
+        {
+          img: 'https://i0.wp.com/globalzonetoday.com/wp-content/uploads/2022/06/Hiba-Bukhari.jpg',
+          name: 'Hiba Bukhari',
+        }
+        ,
+        {
+          img: 'https://www.magpakistan.com/wp-content/uploads/2021/09/zoya-nasir-biography-1024x819.jpg',
+          name: "Zoya Nasir"
+        },
+        {
+          img: "https://hamariweb.com/profiles/images/profile/8987-497-7282.jpg",
+          name: "Mehmood Aslam"
+        },
+        {
+          img: "https://reviewit.pk/wp-content/uploads/2022/05/Aiza-2-819x1024.jpg"
+          , name: "Aiza Awan"
+        },
+
+snafi ahan 
+          {
+          img: 'https://i.dawn.com/primary/2022/10/15174329a4d627b.png',
+          name: "Syra Yousuf"
+        },
+        {
+          img: 'https://pbs.twimg.com/profile_images/1361094716146782208/uEduEoWJ_400x400.jpg',
+          name: "Dananeer Mobeen"
+        },
+
+
+THora  sa Haq
+
+
+        { img: 'https://bookitnow.pk/uploads/a8dbbd5dfa4c33206a9c67dbe618a785.jpg',
+        name:"Ayeza Khan" }
+        ,
+        {
+          img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmHDhOszINBsmuU40SUoBGboxrbUS7n2W9Q&usqp=CAU',                                         
+          name: 'Mashal Khan',
+        }
+        ,
+        {
+          img: 'https://m.media-amazon.com/images/M/MV5BMTU2MDk2OTc1Nl5BMl5BanBnXkFtZTgwMDY1NDg1ODE@._V1_FMjpg_UX1000_.jpg',
+          name: "Imran Abbas"
+        },
+        {
+          img: 'https://reviewit.pk/wp-content/uploads/2022/12/firdousjamal.jpg',
+          name: "Firdous Jamal"
+        },
+        {
+          img: 'https://img.wegreenkw.com/sites/3/2022/12/Nida-Mumtaz.webp',
+          name: "Nida Mumtaz"
+        },
+
+
+Cheekh
+      {
+          img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRLwk2WOSAmnPdba8_rdUAqO0tb8dOM6lq0cHzF9ZPZj87Cp1_t3HL&usqp=CAE&s',
+          name: "Saba Qamar"
+        }
+        ,
+        {
+          img: 'https://starsunfolded.com/wp-content/uploads/2019/01/Bilal-Abbas-Khan.jpg',
+          name: 'Bilal Abbas Khan',
+        }
+        ,
+        {
+          img: 'https://i.tribune.com.pk/media/images/302683493_498923195014673_3299061055251782766_n1662370338-0/302683493_498923195014673_3299061055251782766_n1662370338-0.jpg',
+          name: "Azekah Daniel"
+        },
+        {
+          img: "https://pakobserver.net/wp-content/uploads/2021/03/2249360-ushna-1592981766.jpg"
+          , name: "Ushna Shah"
+        },
+        {
+          img: 'https://i.tribune.com.pk/media/images/1830234-emmadirfani-1540029568/1830234-emmadirfani-1540029568.png',
+          name: "Emmad Irfani"
+        },
+
+BAlaa 
+{
+          img: 'https://i.dawn.com/primary/2017/12/5a41faf37a28c.png',
+          name: "Samina Peerzada"
+        }
+        ,
+        {
+          img: 'https://starsunfolded.com/wp-content/uploads/2019/01/Bilal-Abbas-Khan.jpg',
+          name: 'Bilal Abbas Khan',
+        }
+        ,
+        {
+          img: 'https://i.tribune.com.pk/media/images/302683493_498923195014673_3299061055251782766_n1662370338-0/302683493_498923195014673_3299061055251782766_n1662370338-0.jpg',
+          name: "Azekah Daniel"
+        },
+        {
+          img: "https://pakobserver.net/wp-content/uploads/2021/03/2249360-ushna-1592981766.jpg"
+          , name: "Ushna Shah"
+        },
+        {
+          img: 'https://img.wegreenkw.com/sites/3/2023/03/Sajid-Hasan.webp',
+          name: "Sajid Hasan"
+        },
+
+kAISI TERI KHUD GARZI 
+        {
+          img: 'https://img.wegreenkw.com/sites/3/2023/02/Danish-Taimoor.webp',
+          name: "Danish Taimoor"
+        }
+        ,
+        {
+          img: 'https://hamariweb.com/profiles/images/profile/6577-441.jpg',
+          name: 'Noman Ijaz',
+        }
+        ,
+        {
+          img: 'https://propakistani.pk/lens/wp-content/uploads/2022/12/Dur-e-Fishan-Georgous.jpg',
+          name: "Dur-e-Fishan Saleem"
+        },
+        {
+          img: "https://img.wegreenkw.com/sites/3/2023/03/Hammad-Shoaib.webp"
+          , name: "Hammad Shoaib"
+        },
+        {
+          img: 'https://i.tribune.com.pk/media/images/Odho1678437290-0/Odho1678437290-0.jpg',
+          name: "Atiqa Odho"
+        },
+
+ISHQ E LAL 
+   { img: "https://i0.wp.com/www.dailyinfotainment.com/wp-content/uploads/2022/03/2022-03-09-1-1.jpeg?resize=966%2C1170&ssl=1"
+        , name: "Yumna Zaidi" },
+        
+        {
+          img: 'https://m.timesofindia.com/photo/100040503/100040503.jpg',
+          name: "Sajal Aly"
+        }
+        ,
+        {
+          img: 'https://reviewit.pk/wp-content/uploads/2022/06/ask-21.jpg',
+          name: "Azaan Sami Khan"
+        },
+        {
+          img: "https://pbs.twimg.com/media/EWx9c5sWkAAEjVl.jpg"
+          , name: "Adnan Samad Khan"
+        },
+        {
+          img: 'https://i.tribune.com.pk/media/images/FotoJet-(7)1594629016-0/FotoJet-(7)1594629016-0.jpg',
+          name: "Seemi Raheel"
+        },

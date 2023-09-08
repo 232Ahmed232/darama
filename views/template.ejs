@@ -1,0 +1,158 @@
+<!-- <%- include('partial/header.ejs') %> -->
+
+<link rel="stylesheet" type="text/css" href="/css/template.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!-- <%= view.timg %> -->
+<div class="vie">
+    <h1>
+        <%= view.name %>
+    </h1>
+    <div class="poster">
+        <img src="        <%= view.timg %>
+        " alt="">
+        <div class="introd">
+            <div class="bor">
+                <span class="heading">Name:</span>
+                <span>
+                    <%= view.name %>
+                </span>
+            </div>
+            <div class="bor">
+                <span class="heading">Channel:</span>
+                <span>
+                    <%= view.channel %>
+                </span>
+            </div>
+
+            <div class="bor">
+
+                <span class="heading">Stars:</span>
+                <span>
+                    <!-- <%=view.star%> <br> -->
+                    <% for( let i=0; i < view.star; i++ ) { %>
+                        <i class="fa-solid fa-star" style="color: #ffb121;"></i>
+                        <% } %>
+                </span>
+            </div>
+            <div class="bor">
+
+                <span class="heading">Score:</span>
+                <span>
+                    <%= view.score %>
+                </span>
+            </div>
+            <div class="bor">
+
+                <span class="heading">Release Date:</span>
+                <span>
+                    <%= view.release %>
+                </span>
+            </div>
+            <div class="bor">
+
+                <span class="heading">Writers:</span>
+                <span>
+                    <% view.writers.forEach(element=> { %>
+
+                        <%=element %>
+
+                            <% }) %>
+                </span>
+            </div>
+            <div class="bor">
+
+                <span class="heading">Directors:</span>
+                <span>
+                    <% view.directors.forEach(element=> { %>
+                        <%=element %>
+                            <% }) %>
+                </span>
+            </div>
+            <div class="bor">
+
+                <span class="heading">Producers:</span>
+                <span>
+                    <% view.producers.forEach(element=> { %>
+                        <%=element %> 
+                            <% }) %>
+                </span>
+            </div>
+            <div class="bor">
+
+                <span class="heading">Production Company:</span>
+                <span>
+                    <% view.productioncompany.forEach(element=> { %>
+                        <%=element %>
+                            <% }) %>
+                </span>
+            </div>
+            <div class="bor">
+                <span class="heading">Genere:</span>
+                <span>
+                    <% view.genere.forEach(element=> { %>
+                        <%= element %>
+                            <% }) %>
+                </span>
+            </div>
+        </div>
+    </div>
+    <h2>Plot</h2>
+    <p class="plot">
+        <%= view.plot %>
+    </p>
+    <div class="ost">
+        <h2>OST</h2>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/<%= view.ost %>"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+    </div>
+    <div class="episodes">
+        <h2>Episodes</h2>
+        <% for( let i=0; i < view.episodes.length; i++ ) { %>
+            <div class="ep">
+                <% if (i<9) { %>
+                    <span class="no">0<%= i+1 %></span>
+
+                    <% } else{ %>
+
+                        <span class="no">
+                            <%= i+1 %>
+                        </span>
+                        <% } %>
+                            <div class="line"></div>
+
+                            <a class="url" href="<%= view.episodes[i] %>" target="_blank">
+                                <%= view.episodes[i] %>
+                            </a>
+            </div>
+            <% } %>
+    </div>
+    <!-- <iframe src="https://www.youtube.com/playlist?list=PLdZNFVCDo_1fAo1couOKo4E_uVD7luqpG" frameborder="0"></iframe> -->
+    <div class="ost">
+
+    </div>
+    <h2>Cast</h2>
+    <div class="crew">
+        <% view.cast.forEach(element=> { %>
+            <div class="cast">
+                <img src="<%= element.img %>" alt="<%= element %>">
+                <h4>
+                    <%= element.name %>
+                </h4>
+            </div>
+            <% }) %>
+    </div>
+    <h2>Stars</h2>
+    <h2 class="star">
+        <% for( let i=0; i < view.star; i++ ) { %>
+            <i class="fa-solid fa-star" style="color: #ffb121;"></i>
+            <% } %>
+
+    </h2>
+</div>
+
+<!-- <%- include('partial/footer.ejs') %> -->
